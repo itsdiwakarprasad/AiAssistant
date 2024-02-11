@@ -1,0 +1,25 @@
+{
+    "intents":[
+        {
+            "tag":"greeting",
+            "patterns":["hello","hii","hey","wake up","AI"
+            ],
+            "responses":["Hello sir","Hii sir","Hello","Yes sir","Active sir"
+            ]
+        },
+        {
+            "tag":"bye",
+            "patterns":["bye","good night","going","switch off","bye bye"
+            ],
+            "responses":["closing sir","switching off sir","goodnight sir","bye sir","Deactivating sir"
+            ]
+        },
+        {
+            "tag":"health",
+            "patterns":["how are you","are you all right","are you fine","are you good"
+            ],
+            "responses":["I am all right sir","i am fine sir","cool sir","good sir","I am fine sir"
+            ]
+        }
+    ]
+}
