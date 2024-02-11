@@ -25,7 +25,7 @@ model.eval()
 
 #-----------------------
 
-Name = "Poonam"
+Name = "AiAssistant"
 
 from Listen import Listen
 from Speak import Say
